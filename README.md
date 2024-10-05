@@ -9,6 +9,11 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chethiya216&show_icons=true&theme=radical)
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=chethiya216&theme=material-palenight&hide_border=false" alt="chethiya216" /></p>
 
+<p  align="center">
+  <img src="https://raw.githubusercontent.com/chethiya216/chethiya216/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/chethiya216/chethiya216/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/chethiya216/chethiya216/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+
 ## Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chethiya216&theme=radical&layout=compact)
