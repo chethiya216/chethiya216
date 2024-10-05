@@ -7,6 +7,7 @@
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chethiya216&show_icons=true&theme=radical)
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=chethiya216&theme=material-palenight&hide_border=false" alt="chethiya216" /></p>
 
 ## Most Used Languages
 
