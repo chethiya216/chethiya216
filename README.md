@@ -1,5 +1,7 @@
-## Hi there 👋
+# Hello, I'm [Your Name]!
 
+https://raw.githubusercontent.com/chethiya216/chethiya216/output/dist/github-contribution-grid-snake.svg
+https://raw.githubusercontent.com/chethiya216/chethiya216/output/dist/github-contribution-grid-snake.gif
 <!--
 **chethiya216/chethiya216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 
-https://raw.githubusercontent.com/chethiya216/chethiya216/output/dist/github-contribution-grid-snake.gif
+
