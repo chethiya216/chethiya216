@@ -15,14 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Contribution Graph Snake
 
-This repository generates a contribution graph in the form of a snake that "eats" your contributions on GitHub.
+(https://raw.githubusercontent.com/chethiya216/chethiya216/output/dist/github-contribution-grid-snake.svg)
 
-## View the Contribution Snake
-
-You can view or download the contribution snake SVG file from the link below:
-
-[Download Contribution Snake SVG](https://raw.githubusercontent.com/chethiya216/chethiya216/output/dist/github-contribution-grid-snake.svg)
-
-![Contribution Snake](https://raw.githubusercontent.com/chethiya216/contribution-snake/output/dist/github-contribution-grid-snake.svg)
+https://raw.githubusercontent.com/chethiya216/chethiya216/output/dist/github-contribution-grid-snake.svg
