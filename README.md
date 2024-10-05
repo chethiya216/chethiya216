@@ -12,9 +12,18 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chethiya216&theme=radical&layout=compact)
 
-## My Coding Activity
+## Tools and Technologies
 
-![GitHub Contributions](https://github.com/chethiya216.png?size=200)
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C5F?style=flat&logo=mysql&logoColor=white)
 
 <!--
 **chethiya216/chethiya216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
