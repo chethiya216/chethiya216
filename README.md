@@ -1,4 +1,5 @@
 # Hello, I'm Chethiya!
+# Following The National Diploma In ICT(NVQ LV5) in NVTI
 
 ![Contribution Snake](https://raw.githubusercontent.com/chethiya216/chethiya216/output/dist/github-contribution-grid-snake.gif)
 
@@ -10,6 +11,11 @@
 ## Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chethiya216&theme=radical&layout=compact)
+
+## Visitor Count
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=chethiya216)
+
 <!--
 **chethiya216/chethiya216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
