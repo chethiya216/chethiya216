@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]!
+# Hello, I'm Chethiya!
 
 https://raw.githubusercontent.com/chethiya216/chethiya216/output/dist/github-contribution-grid-snake.svg
 https://raw.githubusercontent.com/chethiya216/chethiya216/output/dist/github-contribution-grid-snake.gif
@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- [LinkedIn](www.linkedin.com/in/chethiya-lakshan-47a16a1b6)
 
 
