@@ -1,5 +1,5 @@
-# Hello, I'm Chethiya!
-# Following The National Diploma In ICT(NVQ LV5) in NVTI
+# Hello, I'm Chethiya👋!
+## Following The National Diploma In ICT(NVQ LV5) in NVTI
 
 ![Contribution Snake](https://raw.githubusercontent.com/chethiya216/chethiya216/output/dist/github-contribution-grid-snake.gif)
 
