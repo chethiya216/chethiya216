@@ -1,6 +1,7 @@
 # Hello, I'm Chethiya!
 
-https://raw.githubusercontent.com/chethiya216/chethiya216/output/dist/github-contribution-grid-snake.gif
+![Contribution Snake](https://raw.githubusercontent.com/chethiya216/chethiya216/output/dist/github-contribution-grid-snake.gif)
+
 
 ## GitHub Stats
 
@@ -22,7 +23,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 - [LinkedIn](www.linkedin.com/in/chethiya-lakshan-47a16a1b6)
+-->
+
 
 
