@@ -1,6 +1,6 @@
 # Hello, I'm Chethiya!
 
-https://raw.githubusercontent.com/chethiya216/chethiya216/output/dist/github-contribution-grid-snake.svg
+chethiya216/output/dist/github-contribution-grid-snake.svg
 https://raw.githubusercontent.com/chethiya216/chethiya216/output/dist/github-contribution-grid-snake.gif
 
 ## GitHub Stats
