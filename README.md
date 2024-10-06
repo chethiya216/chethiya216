@@ -2,7 +2,8 @@
 
 👨‍💻 Trainee Software Developer | 💻 National Diploma in ICT Student
 
-I'm a passionate trainee software developer currently pursuing a National Diploma in ICT. I enjoy building web and software applications, learning new technologies, and expanding my skill set.
+🌱 I'm a passionate trainee software developer pursuing a National ICT Diploma. 
+😄 I enjoy building web and software applications, learning new technologies, and expanding my skill set.
 
 🔧 Skilled in Java, PHP, HTML, CSS, JS
 🌐 Interested in full-stack development and software engineering
