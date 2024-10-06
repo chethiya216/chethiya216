@@ -6,10 +6,12 @@
 😄 I enjoy building web and software applications, learning new technologies, and expanding my skill set.
 
 🔧 Skilled in Java, PHP, HTML, CSS, JS
+
 🌐 Interested in full-stack development and software engineering
+
 📚 Eager to collaborate on open-source projects and innovative solutions
 
-Always excited to connect with fellow developers and work on challenging projects!
+👯 Always excited to connect with fellow developers and work on challenging projects!
 
 ![Contribution Snake](https://raw.githubusercontent.com/chethiya216/chethiya216/output/dist/github-contribution-grid-snake.gif)
 
