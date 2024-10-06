@@ -14,7 +14,8 @@
 
 👯 Always excited to connect with fellow developers and work on challenging projects!
 
-![Contribution Snake](https://raw.githubusercontent.com/chethiya216/chethiya216/output/dist/github-contribution-grid-snake-dark.gif)
+![Contribution Snake](https://raw.githubusercontent.com/chethiya216/chethiya216/output/dist/github-contribution-grid-snake.gif)
+![Contribution Snake](https://raw.githubusercontent.com/chethiya216/chethiya216/output/dist/github-contribution-grid-snake-dark.svg)
 
 
 ## GitHub Stats
