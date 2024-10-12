@@ -1,4 +1,4 @@
-# Hello, I'm Chethiya👋!
+# Hello, I'm Chethiya👋
 
 👨‍💻 Trainee Software Developer | 💻 Following The National Diploma in ICT(NVQ LV5)
 
