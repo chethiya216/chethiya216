@@ -4,8 +4,6 @@
 
 😄 I enjoy building web and software applications, learning new technologies, and expanding my skill set.
 
-🌐 Interested in full-stack development and software engineering
-
 📚 Eager to collaborate on open-source projects and innovative solutions
 
 👯 Always excited to connect with fellow developers and work on challenging projects!
