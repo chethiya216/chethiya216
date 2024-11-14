@@ -15,7 +15,7 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chethiya216&show_icons=true&theme=radical)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chethiya216&theme=dark"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chethiya216"/></a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chethiya216&theme=github_dark)
 
