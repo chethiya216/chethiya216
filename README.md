@@ -38,6 +38,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat&logo=sublimetext&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C5F?style=flat&logo=mysql&logoColor=white)
