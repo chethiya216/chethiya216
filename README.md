@@ -15,7 +15,7 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chethiya216&show_icons=true&theme=radical)
 
-<img src="https://d3frb2mbny706b.cloudfront.net/<chethiya216>" width="600">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chethiya216"/></a>
 
 
 
