@@ -15,8 +15,11 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chethiya216&show_icons=true&theme=radical)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chethiya216"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chethiya216&theme=dark"/></a>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chethiya216&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chethiya216&theme=github_dark)
 
 
 ## Most Used Languages
@@ -41,9 +44,6 @@
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat&logo=sublimetext&logoColor=white)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chethiya216&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chethiya216&theme=github_dark)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C5F?style=flat&logo=mysql&logoColor=white)
