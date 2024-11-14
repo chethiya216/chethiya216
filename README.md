@@ -36,13 +36,22 @@
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat&logo=sublimetext&logoColor=white)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chethiya216&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chethiya216&theme=github_dark)
+
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C5F?style=flat&logo=mysql&logoColor=white)
+
+## Connect with me
+<a href="chethiyalakshan216@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/chethiya216"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="www.linkedin.com/in/chethiya-lakshan"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <!--
 **chethiya216/chethiya216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
