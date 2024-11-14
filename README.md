@@ -22,8 +22,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chethiya216&theme=github_dark)
 
 
-## Most Used Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chethiya216&theme=radical&layout=compact)
 
 ## Tools and Technologies
