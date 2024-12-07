@@ -8,6 +8,8 @@
 
 👯 Always excited to connect with fellow developers and work on challenging projects!
 
+![Snake animation](https://raw.githubusercontent.com/chethiya216/chethiya216/output/github-contribution-grid-snake-dark.svg)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chethiya216&theme=dark)](https://git.io/streak-stats)
 
 ## GitHub Stats
