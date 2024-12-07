@@ -12,7 +12,7 @@
 
 
 ## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chethiya216&theme=dark)](https://git.io/streak-stats)
+
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chethiya216&show_icons=true&theme=radical)
 
@@ -20,6 +20,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chethiya216&theme=github_dark)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chethiya216&theme=dark)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chethiya216&theme=radical&layout=compact)
 
