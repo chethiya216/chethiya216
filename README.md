@@ -8,7 +8,7 @@
 
 👯 Always excited to connect with fellow developers and work on challenging projects!
 
-![Contribution Snake](https://raw.githubusercontent.com/yourusername/yourrepository/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/chethiya216/chethiya216/output/github-contribution-grid-snake.svg)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chethiya216&theme=dark)](https://git.io/streak-stats)
