@@ -10,8 +10,7 @@
 
 ![Contribution Snake](https://raw.githubusercontent.com/chethiya216/chethiya216/output/dist/github-contribution-grid-snake-dark.svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chethiya216)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chethiya216&theme=dark)](https://git.io/streak-stats)
 
 ## GitHub Stats
 
