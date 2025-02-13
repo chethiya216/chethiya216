@@ -53,18 +53,20 @@
 ## 🔥🎓 Education
 
 <table align="center">
-<tr>
-<td>
-  <a href="https://www.vtasl.gov.lk/">
-       <img src="https://github.com/chethiya216/repo-assets/blob/master/profile/vta-logo.png" width="120" style="background-color:white" alt="VTA"/>
-  </a> <br>
-</td>
-<td>
-  NVQ-5 ICT Diploma, (Graduate) <br/> 2023 - 2024
- </td>
-</tr>
+  <tr>
+    <td>
+      <a href="https://www.vtasl.gov.lk/">
+        <img src="https://github.com/chethiya216/repo-assets/blob/master/profile/vta-logo.png" 
+             width="120" 
+             alt="VTA Logo"/>
+      </a>
+    </td>
+    <td>
+      <strong>NVQ-5 ICT Diploma</strong> (Graduate) <br> 2023 - 2024
+    </td>
+  </tr>
 </table>
-<hr>
+
 
 
 <!--
