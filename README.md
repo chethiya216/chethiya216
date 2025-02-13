@@ -50,6 +50,23 @@
 <a href="chethiyalakshan216@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="www.linkedin.com/in/chethiya-lakshan"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
+## 🔥🎓 Education
+
+<table align="center">
+<tr>
+<td>
+  <a href="https://www.vtasl.gov.lk/">
+       <img src="https://github.com/chethiya216/repo-assets/blob/master/profile/vta-logo.png" width="120" style="background-color:white" alt="VTA"/>
+  </a> <br>
+</td>
+<td>
+  NVQ-5 ICT Diploma, (Graduate) <br/> 2023 - 2024
+ </td>
+</tr>
+</table>
+<hr>
+
+
 <!--
 **chethiya216/chethiya216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
