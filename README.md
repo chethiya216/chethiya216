@@ -64,7 +64,7 @@
 </a>
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/chethiyalakshan" target="_blank">
+<a href="https://www.linkedin.com/in/chethiya-lakshan-47a16a1b6/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" height="40" alt="LinkedIn"/>
 </a>
 
