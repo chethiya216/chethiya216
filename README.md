@@ -12,25 +12,76 @@
 
 
 ## GitHub Stats
+<!--
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chethiya216&show_icons=true&theme=radical)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chethiya216&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chethiya216&theme=github_dark)
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=chethiya216&theme=dark)](https://git.io/streak-stats) -->
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=chethiya216&theme=dark)](https://git.io/streak-stats) 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chethiya216&theme=radical&layout=compact)
+-->
+
+<p align="center">
+  <table style="width:90%;border: 0 none;margin: 0 auto">
+    <tr>
+      <td colspan="2">
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chethiya216&theme=react-dark" alt="activity-graph">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=chethiya216&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="" >
+      </td>
+      <td>
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=chethiya216&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethiya216&layout=compact&count_private=true&theme=gotham&hide_border=true&langs_count=10" alt="activity-graph">
+      </td>
+      <td>
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chethiya216&theme=github_dark&stroke=0000&background=060A0CD0&utcOffset=+5.30" alt="activity-graph">
+      </td>
+    </tr>
+    <tr> 
+      <td colspan="2">
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chethiya216&theme=github_dark&stroke=0000&background=060A0CD0" alt="activity-graph">
+      </td>
+    </tr>
+  </table>
+</p>
 
 ## Tools and Technologies
 
 ### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<!-- Java -->
+<a href="https://www.java.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="40" alt="Java"/>
+</a>
+
+<!-- PHP -->
+<a href="https://www.php.net/" target="_blank">
+    <img src="https://img.icons8.com/officel/48/000000/php-logo.png" height="40" alt="PHP"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" height="40" alt="HTML5"/>
+</a>
+
+<!-- JavaScript -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" height="40" alt="JavaScript"/>
+</a>
+
+<!-- CSS -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" height="40" alt="CSS"/>
+</a>
 
 
 ### Tools
@@ -53,9 +104,22 @@
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="40" alt="visual-studio-code"/>
 </a>
 
+## Frameworks
+<!-- Bootstrap -->
+<a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" height="40" alt="Bootstrap"/>
+</a>
+
+<a href="https://laravel.com/" target="_blank">
+    <img src="https://laravel.com/img/logomark.min.svg" height="40" alt="Laravel"/>
+</a>
+
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C5F?style=flat&logo=mysql&logoColor=white)
+<a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" height="40" alt="MySQL"/>
+</a>
+
 
 ## Connect with me
 <!-- Gmail -->
