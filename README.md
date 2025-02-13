@@ -56,7 +56,7 @@
   <tr>
     <td>
       <a href="https://www.vtasl.gov.lk/">
-        <img src="https://github.com/chethiya216/repo-assets/blob/master/profile/vta-logo.png" 
+        <img src="https://github.com/chethiya216/vta-logo.png" 
              width="120" 
              alt="VTA Logo"/>
       </a>
