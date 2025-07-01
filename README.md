@@ -114,6 +114,9 @@
     <img src="https://laravel.com/img/logomark.min.svg" height="40" alt="Laravel"/>
 </a>
 
+<a href="https://laravel.com/" target="_blank" class="inline-block">
+    <img src="https://laravel.com/img/logomark.min.svg" class="h-10" alt="Laravel"/>
+</a>
 
 ### Databases
 <a href="https://www.mysql.com/" target="_blank">
