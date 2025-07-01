@@ -115,7 +115,7 @@
 </a>
 
 <a href="https://tailwindcss.com/" target="_blank">
-    <img src="./assets/tailwindcss-logo.svg" height="40" alt="Tailwind CSS"/>
+    <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b.svg" height="40" alt="Tailwind CSS"/>
 </a>
 
 ### Databases
