@@ -114,8 +114,8 @@
     <img src="https://laravel.com/img/logomark.min.svg" height="40" alt="Laravel"/>
 </a>
 
-<a href="https://laravel.com/" target="_blank" class="inline-block">
-    <img src="https://laravel.com/img/logomark.min.svg" class="h-10" alt="Laravel"/>
+<a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b.svg" height="40" alt="Tailwind CSS"/>
 </a>
 
 ### Databases
