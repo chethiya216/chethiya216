@@ -145,7 +145,7 @@
       </a>
     </td>
     <td>
-      <strong>National DIploma in ICT NVQ 5</strong> (UG) <br>VTA Baddegama<br> 2023 - 2024
+      <strong>National DIploma in ICT NVQ 5</strong><br>VTA Baddegama<br> 2023 - 2024
     </td>
   </tr>
 </table>
