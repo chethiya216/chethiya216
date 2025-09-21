@@ -1,6 +1,6 @@
 # Hello, I'm Chethiya👋
 
-👨‍💻 Trainee Software Developer | 💻 Following The National Diploma in ICT(NVQ LV5)
+👨‍💻 Trainee Software Developer | 💻 Completed The National Diploma in ICT(NVQ LV5)
 
 😄 I enjoy building web and software applications, learning new technologies, and expanding my skill set.
 
