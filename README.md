@@ -26,11 +26,11 @@
 
 <p align="center">
   <table style="width:90%;border: 0 none;margin: 0 auto">
-    <tr>
+<!--     <tr>
       <td colspan="2">
         <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chethiya216&theme=react-dark" alt="activity-graph">
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td>
         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=chethiya216&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="" >
