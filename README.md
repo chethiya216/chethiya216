@@ -25,7 +25,7 @@
 -->
 
 <p align="center">
-  <table style="width:90%;border: 0 none;margin: 0 auto">
+  <table style="width:100%;border: 0 none;margin: 0 auto">
 <!--     <tr>
       <td colspan="2">
         <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chethiya216&theme=react-dark" alt="activity-graph">
@@ -33,20 +33,20 @@
     </tr> -->
     <tr>
       <td>
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=chethiya216&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="" >
+        <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=chethiya216&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="" >
       </td>
       <td>
         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=chethiya216&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="">
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
         <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethiya216&layout=compact&count_private=true&theme=gotham&hide_border=true&langs_count=10" alt="activity-graph">
       </td>
       <td>
         <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chethiya216&theme=github_dark&stroke=0000&background=060A0CD0&utcOffset=+5.30" alt="activity-graph">
       </td>
-    </tr>
+    </tr> -->
     <tr> 
       <td colspan="2">
         <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chethiya216&theme=github_dark&stroke=0000&background=060A0CD0" alt="activity-graph">
@@ -114,9 +114,11 @@
     <img src="https://laravel.com/img/logomark.min.svg" height="40" alt="Laravel"/>
 </a>
 
-<a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b.svg" height="40" alt="Tailwind CSS"/>
+<a href="https://tailwindcss.com">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg" height="40" >
 </a>
+
+
 
 ### Databases
 <a href="https://www.mysql.com/" target="_blank">
@@ -146,6 +148,20 @@
     </td>
     <td>
       <strong>National DIploma in ICT NVQ 5</strong><br>VTA Baddegama<br> 2023 - 2024
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.icbt.lk/">
+        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/icbt-logo.png"
+             width="120" style="background-color:white" alt="ICBT Campus"/>
+      </a>
+    </td>
+    <td>
+      <strong>Higher Diploma in Computing and Software Engineering</strong><br>ICBT GALLE<br> 2026 - 2027
     </td>
   </tr>
 </table>
