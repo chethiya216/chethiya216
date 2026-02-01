@@ -156,8 +156,11 @@
   <tr>
     <td>
       <a href="https://www.icbt.lk/">
-        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/icbt-logo.png"
-             width="120" style="background-color:white" alt="ICBT Campus"/>
+        <img 
+    src="https://raw.githubusercontent.com/chethiya216/chethiya216/main/assets/icbt.png" 
+    width="120" 
+    style="background-color:white" 
+    alt="ICBT"/>
       </a>
     </td>
     <td>
