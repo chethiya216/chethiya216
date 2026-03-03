@@ -1,6 +1,17 @@
-# Hello, I'm Chethiya👋
+# Hello,  I'm Chethiya👋
 
-👨‍💻 Trainee Software Developer | 💻 Completed The National Diploma in ICT(NVQ LV5)
+<p align="center"> 
+    <!-- <h2 align="center">
+      Hello There 
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" alt="wave">
+    </h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&duration=6000&pause=1000&color=A5F7D1&center=true&vCenter=true&width=1000&lines=I'm+Chethiya+Lakshan" alt="Chethiya Lakshan"> -->
+      <!-- <h4 align="center">Driven Developer with a Passion for Innovation and Success</h4> -->
+    
+</p> 
+
+<!-- 👨‍💻 Trainee Software Developer | --> 
+💻 Completed The National Diploma in ICT ( NVQ LV5 ) |  💻 Following Higher Diploma in Computing and Software Engineering
 
 😄 I enjoy building web and software applications, learning new technologies, and expanding my skill set.
 
@@ -8,7 +19,13 @@
 
 👯 Always excited to connect with fellow developers and work on challenging projects!
 
-
+<p align="center"> 
+      <img src="https://komarev.com/ghpvc/?username=chethiya216&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="chethiya216" />
+      <img src="https://img.shields.io/github/stars/chethiya216?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=for-the-badge" alt="chethiya216">
+      <a href="https://github.com/chethiya216?tab=followers">
+          <img src="https://img.shields.io/github/followers/chethiya216?label=Followers&style=for-the-badge" alt="GitHub Badge">
+      </a>
+    </p>
 
 
 ## GitHub Stats
@@ -69,6 +86,8 @@
     <img src="https://img.icons8.com/officel/48/000000/php-logo.png" height="40" alt="PHP"/>
 </a>
 
+### Web Technologies
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/html-5.png" height="40" alt="HTML5"/>
 </a>
@@ -83,6 +102,10 @@
     <img src="https://img.icons8.com/color/48/000000/css3.png" height="40" alt="CSS"/>
 </a>
 
+### Mobile App Development 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" height="40"/> 
+  </a> 
 
 ### Tools
 <a href="https://git-scm.com/" target="_blank">
@@ -104,7 +127,7 @@
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="40" alt="visual-studio-code"/>
 </a>
 
-## Frameworks
+### Frameworks
 <!-- Bootstrap -->
 <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" height="40" alt="Bootstrap"/>
@@ -114,8 +137,8 @@
     <img src="https://laravel.com/img/logomark.min.svg" height="40" alt="Laravel"/>
 </a>
 
-<a href="https://tailwindcss.com">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg" height="40" >
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> 
 </a>
 
 
@@ -139,36 +162,51 @@
 
 ## 🎓 Education
 
-<table align="left">
+<table style="width: auto; border-collapse: separate; border-spacing: 0 15px;">
   <tr>
-    <td>
+    <td style="padding-right: 20px; vertical-align: middle;">
       <a href="https://www.vtasl.gov.lk/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/VTA_Sri_lanka_Logo.png" width="120" style="background-color:white" alt="VTA"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/VTA_Sri_lanka_Logo.png" width="120" style="background-color:white; display:block;" alt="VTA"/>
       </a>
     </td>
-    <td>
-      <strong>National DIploma in ICT NVQ 5</strong><br>VTA Baddegama<br> 2023 - 2024
+    <td style="vertical-align: middle;">
+      <strong>National Diploma in ICT NVQ 5</strong><br>
+      VTA Baddegama<br>
+      2023 - 2024
     </td>
   </tr>
-</table>
-
-<table align="center">
   <tr>
-    <td>
+    <td style="padding-right: 20px; vertical-align: middle;">
       <a href="https://www.icbt.lk/">
-        <img 
-    src="https://raw.githubusercontent.com/chethiya216/chethiya216/main/assets/icbt.png" 
-    width="120" 
-    style="background-color:white" 
-    alt="ICBT"/>
+        <img src="https://icbt.lk/wp-content/uploads/2024/09/ICBT-white-.png" 
+             width="120"
+             style="background-color:white; display:block;" 
+             alt="ICBT"/>
       </a>
     </td>
-    <td>
-      <strong>Higher Diploma in Computing and Software Engineering</strong><br>ICBT GALLE<br> 2026 - 2027
+    <td style="vertical-align: middle;">
+      <strong>Higher Diploma in Computing and Software Engineering</strong><br>
+      ICBT GALLE<br>
+      2026 - 2027
     </td>
   </tr>
 </table>
 
+<!-- <p align="center"> 
+    <h2 align="center">
+      Hello There 
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" alt="wave">
+    </h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&duration=6000&pause=1000&color=A5F7D1&center=true&vCenter=true&width=1000&lines=I'm+Chethiya+Lakshan" alt="Chethiya Lakshan">
+      <h5 align="center">Driven Developer with a Passion for Innovation and Success</h5>
+    <p align="center"> 
+      <img src="https://komarev.com/ghpvc/?username=chethiya216&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="chethiya216" />
+      <img src="https://img.shields.io/github/stars/chethiya216?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=for-the-badge" alt="chethiya216">
+      <a href="https://github.com/chethiya216?tab=followers">
+          <img src="https://img.shields.io/github/followers/chethiya216?label=Followers&style=for-the-badge" alt="GitHub Badge">
+      </a>
+    </p>
+</p>  -->
 
 
 <!--
