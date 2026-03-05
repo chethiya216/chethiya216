@@ -116,6 +116,18 @@
     <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" height="40" alt="IntelliJ IDEA"/>
 </a>
 
+<a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/pycharm.png" height="40" alt="PyCharm"/>
+</a>
+
+<a href="https://www.jetbrains.com/webstorm/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/webstorm.png" height="40" alt="WebStorm"/>
+</a>
+
+<a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" height="40" alt="Android Studio"/>
+</a>
+
 <a href="https://netbeans.apache.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="40" alt="NetBeans"/>
 </a>
