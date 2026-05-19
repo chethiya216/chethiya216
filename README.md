@@ -77,7 +77,7 @@
       </td>
     </tr> -->
 
-![snake gif](https://raw.githubusercontent.com/chethiya216/chethiya216/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/chethiya216/chethiya216/output/github-contribution-grid-snake-dark.svg)
   </table>
 </p>
 
