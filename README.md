@@ -76,6 +76,9 @@
         <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chethiya216&theme=github_dark&stroke=0000&background=060A0CD0&utcOffset=+5.30" alt="activity-graph">
       </td>
     </tr> -->
+    ## Contribution Snake
+
+![snake gif](https://github.com/chethiya216/chethiya216/blob/output/github-contribution-grid-snake-dark.svg)
   </table>
 </p>
 
