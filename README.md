@@ -48,14 +48,26 @@
         <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chethiya216&theme=react-dark" alt="activity-graph">
       </td>
     </tr> -->
-    <tr>
-      <td>
-        <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=chethiya216&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="" >
-      </td>
-      <td>
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=chethiya216&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="">
-      </td>
-    </tr>
+      <td colspan="2">
+    <img width="100%" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chethiya216&theme=github_dark" 
+      alt="activity graph"/>
+  </td>
+</tr>
+
+<tr>
+  <!-- <td>
+    <img width="100%" 
+      src="https://github-readme-stats.vercel.app/api?username=chethiya216&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true" 
+      alt="GitHub stats"/>
+  </td> -->
+
+  <td>
+    <img width="100%" 
+      src="https://streak-stats.demolab.com?user=chethiya216&theme=react&hide_border=true" 
+      alt="GitHub streak"/>
+  </td>
+</tr>
     <!-- <tr>
       <td>
         <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethiya216&layout=compact&count_private=true&theme=gotham&hide_border=true&langs_count=10" alt="activity-graph">
@@ -64,11 +76,6 @@
         <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chethiya216&theme=github_dark&stroke=0000&background=060A0CD0&utcOffset=+5.30" alt="activity-graph">
       </td>
     </tr> -->
-    <tr> 
-      <td colspan="2">
-        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chethiya216&theme=github_dark&stroke=0000&background=060A0CD0" alt="activity-graph">
-      </td>
-    </tr>
   </table>
 </p>
 
